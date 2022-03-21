@@ -1,4 +1,4 @@
-# Airbnb - Preverndo a nota dos imóveis e classificando preços de imóveis
+# Airbnb - Preverndo a nota dos imóveis e classificando preços 
 
 Problema: Prever a nota que um imóvel do airbnb possui a partir dos dados de imóveis do rio de janeiro 
 Bônus: Categorizamos o atributo 'price' (preço) para o atributo resposta 'categorical_price' (preço categórico)

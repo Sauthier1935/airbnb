@@ -108,7 +108,7 @@ Centroides de cada Categoria:
 2 - R$ 673.961975
 3 - R$ 237.809998
 
-ntervalo de cada Categoria:
+Intervalo de cada Categoria:
 
 0 - R$ 325.0 < x < R$ 542.0
 1 - R$ 0.000 < x < R$ 175.0
